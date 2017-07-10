@@ -1,2 +1,2 @@
 # 52ProblemSolving
-52 Problem Solving From Dimik Book
+52 Problem Solving With C Programming From Dimik Book
